@@ -14,18 +14,16 @@ This is the frontend of a blog website built using **Next.js**. It connects to a
 To access the blogs, use the following credentials:
 
 - **Email**: `aakashvaidya@gmail.com`
-- **Password**: `your_password_here`
-
-> Replace `your_password_here` with the actual password you've set in the database.
+- **Password**: `1234`
 
 ---
 
 ## 🧰 Tech Stack
 
 - **Framework**: Next.js (React)
-- **Styling**: Tailwind CSS / CSS Modules
-- **API**: Fetch/axios calls to backend (e.g., NestJS)
-- **Auth**: Basic login validation (can be extended to JWT or OAuth)
+- **Styling**: Tailwind CSS 
+- **API**: axios calls to backend (e.g., NestJS)
+- **Auth**: JWT login validation
 
 ---
 
